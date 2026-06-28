@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Dmitry 👋
 
-<!--
-**12Dmitry12-hub/12Dmitry12-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python backend developer focused on building 
+clean and efficient REST APIs.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Language:** Python
+- **Frameworks:** FastAPI, Flask
+- **Database:** SQLite, SQL
+- **Tools:** Git, REST API
+
+## 🚀 What I'm working on
+
+- Building my portfolio with real backend projects
+- Learning best practices in API development
+- Open to freelance projects and collaboration
+
+## 📫 Contact me
