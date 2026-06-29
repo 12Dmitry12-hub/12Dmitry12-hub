@@ -1,28 +1,41 @@
 # Hi, I'm Dmitry 👋
 
-I'm a Python backend developer focused on building 
-clean REST APIs and crypto automation tools.
+I'm a Python backend developer and DevOps engineer focused on 
+building REST APIs, crypto automation tools, and server infrastructure.
 
 ## 🛠️ Tech Stack
 
+**Backend:**
 - **Language:** Python
 - **Frameworks:** FastAPI, Flask
 - **Database:** SQLite, SQL
 - **Tools:** Git, REST API
 
-## 🔗 Crypto & Blockchain
-
-- **Wallet monitoring** bots with Telegram notifications
-- **Exchange API integration:** Binance, Coinbase
-- **Blockchain data parsing** via public APIs
-- **DeFi automation** scripts
+**Crypto & Blockchain:**
+- Wallet monitoring bots with Telegram notifications
+- Exchange API integration: Binance, Coinbase
+- Blockchain data parsing via public APIs
+- DeFi automation scripts
 - **Libraries:** web3.py, requests, python-telegram-bot
 
-## 🚀 What I'm working on
+**DevOps:**
+- VPN servers: WireGuard, OpenVPN, 3x-ui
+- Docker, Nginx
+- Linux / Ubuntu server setup
+- Python app deployment on VPS
+- DigitalOcean, Hetzner
 
-- Building portfolio with real backend & crypto projects
-- Open to freelance projects and collaboration
+## 🚀 Portfolio
+
+- [Todo REST API](https://github.com/12Dmitry12-hub/todo-api) — FastAPI + SQLite CRUD
+
+## 🔧 What I can build for you
+
+- REST APIs and backend systems
+- Crypto bots and automation scripts
+- VPN server setup and configuration
+- Docker deployment and server management
 
 ## 📫 Contact me
 
-tg.Centenario122
+- GitHub: https://github.com/12Dmitry12-hub
