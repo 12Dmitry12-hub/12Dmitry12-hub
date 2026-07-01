@@ -25,11 +25,12 @@ building REST APIs, crypto automation tools, and server infrastructure.
 - Python app deployment on VPS
 - DigitalOcean, Hetzner
 
-### 🚀 Portfolio
+## 🚀 Portfolio
 
-* [Crypto Wallet & Price Monitor Bot](https://github.com/12Dmitry12-hub/crypto-wallet-monitor-bot) — Asynchronous Telegram bot utilizing Web3.py for EVM balance tracking, CoinGecko API for token alerts, and SQLite persistence.
-* [Todo REST API](https://github.com/12Dmitry12-hub/todo-api) — FastAPI + SQLite CRUD
-  - [crypto-dashboard](https://github.com/12Dmitry12-hub/crypto-dashboard) — FastAPI + Binance/Coinbase API + SQLite + dark-theme dashboard
+- [Todo REST API](https://github.com/12Dmitry12-hub/todo-api) — FastAPI + SQLite CRUD
+- [Crypto Wallet & Price Monitor Bot](https://github.com/12Dmitry12-hub/crypto-wallet-bot) — Async Telegram bot with Web3.py, CoinGecko API and SQLite
+- [Binance API Script](https://github.com/12Dmitry12-hub/binance-api-script) — Real-time crypto data: prices, top coins, price history + SQLite
+- [Crypto Price Dashboard](https://github.com/12Dmitry12-hub/crypto-dashboard) — FastAPI + Binance/Coinbase API + dark-theme dashboard + SQLite
 ## 🔧 What I can build for you
 
 - REST APIs and backend systems
