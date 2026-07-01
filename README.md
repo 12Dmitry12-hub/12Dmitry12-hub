@@ -29,7 +29,7 @@ building REST APIs, crypto automation tools, and server infrastructure.
 
 * [Crypto Wallet & Price Monitor Bot](https://github.com/12Dmitry12-hub/crypto-wallet-monitor-bot) — Asynchronous Telegram bot utilizing Web3.py for EVM balance tracking, CoinGecko API for token alerts, and SQLite persistence.
 * [Todo REST API](https://github.com/12Dmitry12-hub/todo-api) — FastAPI + SQLite CRUD
-  - [crypto-dashboard](https://github.com/12Dmitry12-hub/crypto-dashboard) — FastAPI + Binance/Coinbase API + SQLite + dark-theme dashboard
+  [crypto-dashboard](https://github.com/12Dmitry12-hub/crypto-dashboard) — FastAPI + Binance/Coinbase API + SQLite + dark-theme dashboard
 
 ## 🔧 What I can build for you
 
